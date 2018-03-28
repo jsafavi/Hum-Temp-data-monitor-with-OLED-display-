@@ -14,5 +14,6 @@ This project uses hardware used mostly from Adafruit.com.
 
 # Setup 
 
+As it can be seen in the image above, the hum/temp sensor and OLED display are connected to the feather board using I2C (default pins 4 and 5). Power for both of these is provided from the board 3.3v and GND outputs.
 
 
