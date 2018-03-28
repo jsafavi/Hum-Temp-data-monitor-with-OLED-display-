@@ -11,6 +11,8 @@ This project uses hardware used mostly from Adafruit.com.
 
 
 
+<img src="https://github.com/jsafavi/Hum-Temp-data-monitor-with-OLED-display-/blob/readme-ed/hardware_setup.jpg" width="200">
+
 
 # Setup 
 
