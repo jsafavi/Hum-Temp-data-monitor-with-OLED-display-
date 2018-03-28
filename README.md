@@ -11,11 +11,11 @@ This project uses hardware used mostly from Adafruit.com.
 
 
 
-<img src="https://github.com/jsafavi/Hum-Temp-data-monitor-with-OLED-display-/blob/readme-ed/hardware_setup.jpg" width="2000">
+<img src="https://github.com/jsafavi/Hum-Temp-data-monitor-with-OLED-display-/blob/readme-ed/hardware_setup.jpg" width="700">
 
 
 # Setup 
 
-As it can be seen in the image above, the hum/temp sensor and OLED display are connected to the feather board using I2C (default pins 4 and 5). Power for both of these is provided from the board 3.3v and GND outputs.
+As it can be seen in the image above, the hum/temp sensor and OLED display are connected to the feather board using I2C with white and blue wires (default pins 4 and 5). Power for both of these is provided from the board 3.3v and GND outputs.
 
 
